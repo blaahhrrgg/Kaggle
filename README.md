@@ -1,3 +1,3 @@
-# Kaggle_HillaryClintonEmails
+# Kaggle
 
-Playing around with the Hillary Clinton Emails dataset from Kaggle.
+Playing around with datasets from Kaggle.
