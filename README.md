@@ -1,3 +1,3 @@
 # Kaggle
 
-Playing around with datasets from Kaggle.
+Playground for some Kaggle datasets and competitions.
